@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="ooB]:2be/zCD-?.P_qQI" x="0" y="0"></block><block type="device_forever" id="9h$g*QJ8}yq2gRSmf?ro" x="253" y="0"><statement name="HANDLER"><block type="device_show_leds" id="8n[?:i2lO`yqMII9Ow}|"><field name="LEDS">`
+        . . . . . 
+        . . . # . 
+        # . . . . 
+        # . . . . 
+        # # . . .
+        `</field><next><block type="device_pause" id="`)J3AliQpCX=q|S488r{"><value name="pause"><shadow type="timePicker" id="OY?1mTD^,b18]R#^)d%c"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="#0P_`ue/,Kr8QW5xR^k,"><field name="LEDS">`
+        . . . . . 
+        # . . # . 
+        # . . . . 
+        # . . . . 
+        # . . . .
+        `</field><next><block type="device_pause" id="[-U`KAbex-oQwfguq@},"><value name="pause"><shadow type="timePicker" id="pRF$k,7K^cC:XEuMml1K"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="I^58Am(]D5+F!lr0FLca"><field name="LEDS">`
+        . . . . . 
+        # # . # . 
+        # . . . . 
+        # . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="0bpdA!;F9w54E$6Ft1_r"><value name="pause"><shadow type="timePicker" id="31|Ynv=i4.GU^XeN!+G#"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="d=9e=15OSyW#u2!2eEBT"><field name="LEDS">`
+        . . . . . 
+        # # # # . 
+        # . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="{~;MRk9P?*.dUtIaMbgt"><value name="pause"><shadow type="timePicker" id="l=xS[)e8m_RHJQD[Bvs)"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id=";WmVBsp?l3U}@$0a1-T5"><field name="LEDS">`
+        . . . . . 
+        # # # # . 
+        # . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="7r{CsUcMULS?hP4rjH67"><value name="pause"><shadow type="timePicker" id="4i?vguij?R86)5)+RQ}y"><field name="ms">100</field></shadow></value><next><block type="music_playable_play_default_bkg" id="s1jm#*VN7U^x[X[D2rSQ"><field name="playbackMode">music.PlaybackMode.InBackground</field><value name="toPlay"><shadow type="device_builtin_melody_playable" id="Uy`)55mW!i40ZI5KEk}P"><field name="melody">Melodies.Punchline</field></shadow></value><next><block type="basic_show_icon" id="+r*_=;fhnbv=wd6W$J4d"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="HYAndSUk?y.#PG(ZK$nJ"><value name="pause"><shadow type="timePicker" id="a3AZ?4n5BGEFwUlatw,r"><field name="ms">20</field></shadow></value><next><block type="basic_show_icon" id="YC;M#a1l%^I4H/+Rn_cf"><field name="i">IconNames.SmallHeart</field><next><block type="device_pause" id="j9LGvjp2YZBN:3{r-x.c"><value name="pause"><shadow type="timePicker" id="/^0iM7E73kDp]aWK%J?p"><field name="ms">20</field></shadow></value><next><block type="basic_show_icon" id="1(ph^hkUik6S_]SQ+tf6"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="_6|Q]d?BNg)/*s2H:F(n"><value name="pause"><shadow type="timePicker" id="ItwbWMf2cbgD=;u`?pAw"><field name="ms">20</field></shadow></value><next><block type="basic_show_icon" id="`Z5Uq}dY)y:s3mr,Ig_C"><field name="i">IconNames.SmallHeart</field><next><block type="device_pause" id="K[V_D~7L=goytXNK3(+:"><value name="pause"><shadow type="timePicker" id="?12u-hnt(~UH,m6D6Qrq"><field name="ms">20</field></shadow></value><next><block type="basic_show_icon" id="}Lt6;J=rt9g%8HiaR[j^"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="8Wd$KnZ0Bk08^rFN#nTO"><value name="pause"><shadow type="timePicker" id="Rk8yMcQXv:0{m}8Ysb+?"><field name="ms">20</field></shadow></value><next><block type="basic_show_icon" id="G5E+)]W.f$^pR;-^9vVP"><field name="i">IconNames.SmallHeart</field><next><block type="device_pause" id="PA:MTOxhAs66aFpha$A["><value name="pause"><shadow type="timePicker" id="[zwl$HWloSsia+B}g*Jp"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
